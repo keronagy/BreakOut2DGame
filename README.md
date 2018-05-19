@@ -17,4 +17,4 @@ space >> to continue game after pause or losing life
 
 ▪ Levels of difficulties
 
-you will find the UML_ClassDiagram and samples of game in samples folder
+you will find the UML_ClassDiagram, report and samples of game in samples folder
