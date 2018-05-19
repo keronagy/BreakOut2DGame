@@ -16,3 +16,5 @@ space >> to continue game after pause or losing life
 ▪ Multiplayer Support
 
 ▪ Levels of difficulties
+
+you will find the UML_ClassDiagram and samples of game in samples folder
