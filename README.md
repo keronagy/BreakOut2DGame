@@ -1,8 +1,10 @@
 # BreakOut2DGame
-#this is BreakOut 2d game implemented using Java Swing GUI implemented from scratch without using the gui builder
+
+this is BreakOut 2d game implemented using Java Swing GUI implemented from scratch without using the gui builder
 
 
-#game instructions
+game instructions
+
 note: after losing life in single player you must press space to start again 
 
 p >> for pause the game
